@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/itachi-akatsuki-banner.jpg" alt="Moonlit Akatsuki-inspired landscape with ravens and crimson maple leaves" width="100%" />
+</p>
+
 <div align="center">
 
 # JanHorans
